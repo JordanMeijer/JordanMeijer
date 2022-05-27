@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am learning to be a software developer.
+I am learning to be a full stack developer.
 
 I currently live in Auckland, New Zealand.
 
